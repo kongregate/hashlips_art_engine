@@ -173,6 +173,7 @@ const addAttributes = (_element) => {
   attributesList.push({
     trait_type: _element.layer.name,
     value: selectedElement.name,
+    rarity: selectedElement.weight,
   });
 };
 
