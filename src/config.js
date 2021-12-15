@@ -79,9 +79,7 @@ const background = {
   default: '#000000',
 };
 
-const extraMetadata = {
-  illustrator: 'Hasan Odom',
-};
+const extraMetadata = {};
 
 const rarityDelimiter = '#';
 
