@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.sol;
 
 // General metadata for Ethereum
-const namePrefix = 'Bean Babies';
-const description = 'Mint your custom bean baby.';
+const namePrefix = 'Bean';
+const description = 'Thinkin’ about those beans';
 const baseUri = 'ipfs://NewUriToReplace';
 
 const solanaMetadata = {
